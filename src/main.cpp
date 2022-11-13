@@ -5,8 +5,8 @@
 #include <ESP8266HTTPClient.h>
 
 // WiFi Setup
-const char * ssid = "PPPig";      // WiFi名称
-const char * password = "badcodes";       // WiFi密码
+const char * ssid = "WiFi Name";      // WiFi名称
+const char * password = "Password";       // WiFi密码
 const char *url = "http://192.168.2.187:8085/data.json";
 const char *hostname = "Hardware Monitor";
 
